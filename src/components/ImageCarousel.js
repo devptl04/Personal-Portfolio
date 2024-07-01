@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 
+
+/*utilizing later */
+
 const images = [
   'images/suit.jpg',
 ];
