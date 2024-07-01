@@ -26,8 +26,8 @@ You can view the live demo of the project hosted on Vercel: [Live Demo](https://
 
 This portfolio was inspired by the following online portfolios:
 
-- **https://web.stanford.edu/~swkang73/
-- **https://mayanigrin.com/
+- https://swkang73.github.io/
+- https://mayanigrin.com/
 
 
-Thank you for visiting my portfolio!
+## Thank you for visiting my portfolio!
