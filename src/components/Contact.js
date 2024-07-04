@@ -24,7 +24,7 @@ function Contact() {
           <span className='text-gray-400 font-serif mt-2'>devptl04@gmail.com</span>
         </div>
         <div className='text-center'>
-          <a href="www.linkedin.com/in/dev-patel04" target="_blank" rel="noopener noreferrer" className='text-3xl mb-4'>
+          <a href="https://www.linkedin.com/in/dev-patel04/" target="_blank" rel="noopener noreferrer" className='text-3xl mb-4'>
             <span className='fab fa-linkedin text-4xl mb-4 cursor-pointer hover:text-sky-400'></span>
           </a>
           <p className='text-lg text-sky-400 font-serif'>Let's Connect</p>

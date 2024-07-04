@@ -27,7 +27,7 @@ const About = () => {
 
         <div className="mt-8 flex space-x-4 text-center sm: text-left">
           <a href="mailto:devptl04@gmail.com" className="text-gray-600 hover:text-gray-900 text-4xl"><span className="fas fa-envelope"></span></a>
-          <a href="www.linkedin.com/in/dev-patel04" className="text-gray-600 hover:text-gray-900 text-4xl"><span className="fab fa-linkedin"></span></a>
+          <a href="https://www.linkedin.com/in/dev-patel04/" className="text-gray-600 hover:text-gray-900 text-4xl"><span className="fab fa-linkedin"></span></a>
           <a href="https://github.com/devptl04/" className="text-gray-600 hover:text-gray-900 text-4xl"><span className="fab fa-github"></span></a>
         </div>
       </div>

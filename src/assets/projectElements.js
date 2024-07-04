@@ -26,7 +26,7 @@ const projectElements = [
     {
         id: 4,
         title: "Annapurna Website",
-        a: "github.com",
+        a: "https://github.com/devptl04/Catering-Website/",
         icon: "fa fa-globe",
         description: "Created a fully responsive website for a local catering company",
         tech: ["HTML", "CSS", "React", "Tailwind"],
@@ -42,7 +42,7 @@ const projectElements = [
     {
         id: 6,
         title: "Personal Website",
-        a: "https://devpatel04.vercel.app",
+        a: "https://github.com/devptl04/Personal-Portfolio",
         icon: "fa fa-mouse-pointer",
         description: "I built this website by scratch with inspiration for a multitude of online portfolios, adding my own flavor to them",
         tech: ["React", "HTML", "Tailwind", "CSS"],
