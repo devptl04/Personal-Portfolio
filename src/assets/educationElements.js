@@ -3,7 +3,7 @@ const educationElements = [
       id: 1,
       title: "University of North Carolina at Chapel Hill",
       location: "Chapel Hill, North Carolina",
-      description: ["Computer Science & Business Administration (Real Estate)", "Clubs: Business Technology Club, First Generations Investors Club, Spikeball Club, Competitive Programming Club, Video-Game Development Club", "President and Co-Founder of Iota Nu Delta (Multicultural Fraternity)", "Presidential Medal for Volunteering"],
+      description: ["Computer Science & Business Administration(Real Estate)  - Current Junior ", "Clubs: Business Technology Club, First Generations Investors Club, Spikeball Club, Competitive Programming Club, Video-Game Development Club", "President and Co-Founder of Iota Nu Delta (Multicultural Fraternity)", "Presidential Medal for Volunteering"],
       date: "2022-2026",
       icon: "school",
       color: "blue",

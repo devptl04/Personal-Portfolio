@@ -34,9 +34,9 @@ const About = () => {
 
       {/* Right Container */}
       <div className="w-full md:w-2/3 p-6">
-        <p className="text-[#a3a3a3] text-md md:text-xl tracking-wide font-ebGaramond">
+        <p className="text-[#9ca3af] text-md md:text-xl tracking-wide font-ebGaramond">
             I am a student at UNC, class of 2026, pursuing a double major in Computer Science and Business Administration. I have been studying computer science since my junior year in high school, and I am comfortable coding in Java, Python, HTML, CSS, JavaScript, and TypeScript. When I'm not in classes, I'm often involved in software development and entrepreneurship. As the Founder and CEO of Goobr, I lead the development of a ride-sharing service using golf carts around UNC's campus.
-            I have also strengthened my skills professionally through internships at, fintech company, DTCC and Cisco.
+            I have also strengthened my skills professionally through internships at Arrow, DTCC, and Cisco and various personal projects.
             <br /><br />
             I'm actively involved in a variety of extracurriculars on campus, including the Competitive Programming Club, Busi-Tech Club, Spikeball Club, and I am the president and co-founder of Iota Nu Delta at UNC. In the rare moments I'm free, I enjoy playing pickleball and basketball, playing guitar, and trying new things!
         </p>

@@ -1,6 +1,16 @@
 const timelineElements = [
     {
       id: 1,
+      title: "Arrow Logistics",
+      location: "Software Engineer Intern | Remote | June 2024 - Present",
+      description: 
+      ["Implementing and maintaining backend services using Node.js and Express, integrating with MongoDB for data storage, ensuring robust and scalable solutions for real-time logistics data processing and management."],
+      date: "June 24 - Present",
+      icon: "work",
+      tech: ["Node.js", "Express", "MongoDB"],
+    },
+    {
+      id: 2,
       title: "Goobr.",
       location: "Founder & CEO | Chapel Hill, NC | March 2024 - Present",
       description: 
@@ -14,7 +24,7 @@ const timelineElements = [
     },
 
     {
-      id: 2,
+      id: 3,
       title: "Depository Trust & Clearing Corporation (DTCC)",
       location: "Software Engineer Intern | Tampa, Florida | June 2023 - August 2023",
       description: 
@@ -31,7 +41,7 @@ const timelineElements = [
     },
 
     {
-      id: 3,
+      id: 4,
       title: "CISCO",
       location: "Cisco High Insight Extern | NYC, New York | June 2021 - July 2021 ",
       description: 
@@ -46,7 +56,7 @@ const timelineElements = [
       tech: ["Devnet", "IoT", "AppD", "Cybersecurity"],
     },
     {
-      id: 4,
+      id: 5,
       title: "Ria International",
       location: "Business Development Intern | Raliegh, NC | January 2019 - May 2022",
       description: [

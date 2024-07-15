@@ -5,15 +5,15 @@ const projectElements = [
         a: "https://github.com/devptl04/Instagram",
         icon: "fab fa-instagram",
         description: "This full stack project mirrors the core functionalites of Instagram. This project offers a seamless user experience for photo sharing, including features such as user authentication, real-time posts, likes, and comments.",
-        tech: ["Firebase", "React"],
+        tech: ["Firebase", "React", "JavaScript", "Chakra UI"],
     },
     {
         id: 2,
         title: "AWS Deep Racer",
         a: "https://github.com/devptl04/AWS-Deep-Racer",
         icon: "fa fa-car",
-        description: "This full-stack project leverages the exciting realm of machine learning and autonomous vehicles through AWS DeepRacer, a 1/18th scale race car which I trained to drive itself using reinforcement learning.",
-        tech: ["Python", "Typescript", "Node.js", "TensorFlow", "Tailwind"],
+        description: "This project leverages the exciting realm of machine learning and autonomous vehicles through AWS DeepRacer, a 1/18th scale race car which I trained to drive itself using reinforcement learning.",
+        tech: ["Python", "AWS Cloud", "Machine Learning"],
     },
     {
         id: 3,
@@ -25,10 +25,10 @@ const projectElements = [
     },
     {
         id: 4,
-        title: "Annapurna Website",
-        a: "https://github.com/devptl04/Catering-Website/",
-        icon: "fa fa-globe",
-        description: "Created a fully responsive website for a local catering company",
+        title: "Classmate",
+        a: "https://classmate.lol/",
+        icon: "fas fa-university",
+        description: "This full stack web application that I helped develop/enhance streamlines the college course scheduling process. This project includes features such as user authentication, real-time scheduling updates, and user feedback integration. Current user base: 25,000+",
         tech: ["HTML", "CSS", "React", "Tailwind"],
     },
     {
@@ -49,11 +49,11 @@ const projectElements = [
     },
     {
         id: 7,
-        title: "Movie Findr",
-        a: "https://github.com/devptl04/Movie-App",
-        icon: "fa fa-film",
-        description: "This program finds any movie from search, displaying ",
-        tech: ["Javascript", "CSS", "HTML"],
+        title: "Annapurna Website",
+        a: "https://github.com/devptl04/Catering-Website/",
+        icon: "fa fa-globe",
+        description: "Created a fully responsive website for a local catering company",
+        tech: ["HTML", "CSS", "React", "Tailwind"],
     }
 ];
 
