@@ -1,16 +1,39 @@
 const timelineElements = [
     {
       id: 1,
-      title: "Arrow Logistics",
-      location: "Software Engineer Intern | Remote | June 2024 - Present",
+      title: "Amazon",
+      location: "Software Developer Intern | Seattle, WA | May 2025 - Present",
       description: 
-      ["Implementing and maintaining backend services using Node.js and Express, integrating with MongoDB for data storage, ensuring robust and scalable solutions for real-time logistics data processing and management."],
-      date: "June 24 - Present",
+      ["Currently working on the EC2 Fleet team at Amazon."],
+      date: "May 25 - Present",
       icon: "work",
-      tech: ["Node.js", "Express", "MongoDB"],
+      tech: ["Python", "Java", "DynamoDB", "AWS"],
     },
     {
       id: 2,
+      title: "Voicera",
+      location: "Software Engineer Intern | Remote | August 2024 - December 2024",
+      description: 
+      ["Optimizing key components in a multimodal AI-powered application using TypeScript and React, conducting thorough code reviews and debugging sessions to enhance responsiveness and maintain high code quality across diverse use cases."],
+      date: "August 24 - December 24",
+      icon: "work",
+      tech: ["React", "TypeScript", "AWS"],
+    },
+    {
+      id: 3,
+      title: "Arrow Logistics",
+      location: "Software Engineer Intern | Remote | June 2024 - August 2024",
+      description: 
+      [
+        "Implemented a dynamic real-time shipment tracking system using Node.js, Express, and MySQL, improving tracking for 1,000+ daily shipments and boosting data processing efficiency by over 20%",
+        "Developed and integrated API solutions for real-time shipping updates, utilizing Kafka for event-driven architecture to ensure reliable and scalable message processing, increasing customer engagement by 15%"
+      ],
+      date: "June 24 - August 24",
+      icon: "work",
+      tech: ["Node.js", "Express", "MySQL", "Kafka"],
+    },
+    {
+      id: 4,
       title: "Goobr.",
       location: "Founder & CEO | Chapel Hill, NC | March 2024 - Present",
       description: 
@@ -24,7 +47,7 @@ const timelineElements = [
     },
 
     {
-      id: 3,
+      id: 5,
       title: "Depository Trust & Clearing Corporation (DTCC)",
       location: "Software Engineer Intern | Tampa, Florida | June 2023 - August 2023",
       description: 
@@ -41,7 +64,7 @@ const timelineElements = [
     },
 
     {
-      id: 4,
+      id: 6,
       title: "CISCO",
       location: "Cisco High Insight Extern | NYC, New York | June 2021 - July 2021 ",
       description: 
@@ -56,7 +79,7 @@ const timelineElements = [
       tech: ["Devnet", "IoT", "AppD", "Cybersecurity"],
     },
     {
-      id: 5,
+      id: 7,
       title: "Ria International",
       location: "Business Development Intern | Raliegh, NC | January 2019 - May 2022",
       description: [
