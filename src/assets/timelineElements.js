@@ -4,48 +4,51 @@ const timelineElements = [
       title: "Amazon",
       location: "Software Developer Intern | Seattle, WA | May 2025 - Present",
       description: 
-      ["Currently working on the EC2 Fleet team at Amazon."],
+      ["Implementing a fully automated EC2 data validation pipeline in AWS by encoding complex business logic as Z3 constraints and applying automated reasoning to identify unsellable instances—surfacing key metrics in CloudWatch and reducing capital expenditures by ~$10K per instance."],
       date: "May 25 - Present",
       icon: "work",
-      tech: ["Python", "Java", "DynamoDB", "AWS"],
+      tech: ["Python", "Spark", "AWS Glue", "AWS Cloudwatch", "S3"],
     },
     {
       id: 2,
+      title: "Power",
+      location: "Founder & CEO | Chapel Hill, NC | January 2025 - Present",
+      description: 
+      [
+        "Co-founding an AI-powered platform that converts natural language prompts into end-to-end business automations, enabling non-technical users to build workflows with zero code.",
+        "Leading the development of the platforms core infrastructure using React, Node.js, n8n, and OpenAIs GPT-4, streamlining backend task creation and targeting a 90% reduction in workflow setup time."
+      ],
+      date: "Jan 25 - Present",
+      icon: "work",
+      tech: ["React", "Javascript", "Node.js", "Open AI (GPT-4)", "n8n", "CloudSQL"],
+    },
+
+    {
+      id: 3,
       title: "Voicera",
       location: "Software Engineer Intern | Remote | August 2024 - December 2024",
       description: 
-      ["Optimizing key components in a multimodal AI-powered application using TypeScript and React, conducting thorough code reviews and debugging sessions to enhance responsiveness and maintain high code quality across diverse use cases."],
+      [
+        "Optimized core components using TypeScript and React in Voicera’s multimodal AI app—reduced UI latency by ~25% and cut component load times by ~30% through targeted refactoring and performance tuning",
+        "Conducted 40+ code reviews and resolved 100+ bugs, boosting overall application responsiveness and raising front-end test coverage by 15%"
+      ],
       date: "August 24 - December 24",
       icon: "work",
       tech: ["React", "TypeScript", "AWS"],
     },
     {
-      id: 3,
+      id: 4,
       title: "Arrow Logistics",
       location: "Software Engineer Intern | Remote | June 2024 - August 2024",
       description: 
       [
-        "Implemented a dynamic real-time shipment tracking system using Node.js, Express, and MySQL, improving tracking for 1,000+ daily shipments and boosting data processing efficiency by over 20%",
+        "Implemented a dynamic real-time shipment tracking system using Node.js, Express, and PostgreSQL, improving tracking for 1,000+ daily shipments and boosting data processing efficiency by over 20%.",
         "Developed and integrated API solutions for real-time shipping updates, utilizing Kafka for event-driven architecture to ensure reliable and scalable message processing, increasing customer engagement by 15%"
       ],
       date: "June 24 - August 24",
       icon: "work",
-      tech: ["Node.js", "Express", "MySQL", "Kafka"],
+      tech: ["Node.js", "Express", "PostgresSQL", "Kafka"],
     },
-    {
-      id: 4,
-      title: "Goobr.",
-      location: "Founder & CEO | Chapel Hill, NC | March 2024 - Present",
-      description: 
-      [
-        "Co-founding Goobr, a ride-sharing service using golf carts around UNC's college campus, aimed at providing a convenient and eco-friendly transportation solution for students",
-        "Leading the development of the Goobr mobile app primarily using TypeScript, focusing on building a robust and scalable codebase"
-      ],
-      date: "March 24 - Present",
-      icon: "work",
-      tech: ["React", "Typescript", "Java", "MySQL", "Google Cloud"],
-    },
-
     {
       id: 5,
       title: "Depository Trust & Clearing Corporation (DTCC)",

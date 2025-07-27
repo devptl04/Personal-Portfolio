@@ -18,7 +18,7 @@ const About = () => {
             <span className="text-[#404040] text-base tracking-wider">SCHOOL:</span> <span className="text-[#a3a3a3] text-base font-serif">UNC Chapel Hill</span>
           </li>
           <li className="text-lg md:text-xl border-b border-gray-300 pb-2">
-            <span className="text-[#404040] text-base tracking-wider">AGE:</span> <span className="text-[#a3a3a3] text-base font-serif">20 Years</span>
+            <span className="text-[#404040] text-base tracking-wider">AGE:</span> <span className="text-[#a3a3a3] text-base font-serif">21 Years</span>
           </li>
           <li className="text-lg md:text-xl pb-2">
             <span className="text-[#404040] text-base tracking-wider">HOMETOWN:</span> <span className="text-[#a3a3a3] text-base font-serif">Cary, NC</span>
@@ -35,10 +35,9 @@ const About = () => {
       {/* Right Container */}
       <div className="w-full md:w-2/3 p-6">
         <p className="text-[#9ca3af] text-md md:text-xl tracking-wide font-ebGaramond">
-            I am a student at UNC, class of 2026, pursuing a double major in Computer Science and Business Administration. I have been studying computer science since my junior year in high school, and I am comfortable coding in Java, Python, HTML, CSS, JavaScript, and TypeScript. When I'm not in classes, I'm often involved in software development and entrepreneurship. As the Founder and CEO of Goobr, I lead the development of a ride-sharing service using golf carts around UNC's campus.
-            I have also strengthened my skills professionally through internships at Voicera, Arrow, DTCC, and Cisco. I'm also currently interning at Amazon. 
+            I am a student at UNC, class of 2026, pursuing a double major in Computer Science and Business Administration. I have been studying computer science for a couple of years now, and I am comfortable coding in Java, Python, HTML, CSS, JavaScript, and TypeScript. When I'm not in classes, I'm often involved in software development and entrepreneurship. As the CEO and Co-Founder of Power, I’m building an AI-powered platform that turns natural language prompts into end-to-end business automations. I have also strengthened my skills professionally through internships at Amazon, Voicera, Arrow Logistics, DTCC, and Cisco.
             <br /><br />
-            I'm actively involved in a variety of extracurriculars on campus, including the Competitive Programming Club, Busi-Tech Club, Spikeball Club, and I am the president and co-founder of Iota Nu Delta at UNC. In the rare moments I'm free, I enjoy playing pickleball and basketball, playing guitar, and trying new things!
+            I'm actively involved in a variety of extracurriculars on campus, including the Competitive Programming Club, Busi-Tech Club, Spikeball Club, and I am the president and co-founder of Iota Nu Delta at UNC. In the rare moments I'm free, I enjoy playing pickleball and basketball, playing guitar, travelling, and trying new things!
         </p>
 		<div className="mt-8">
   			<a href='/images/resume.pdf' download="Dev Patel Resume">
