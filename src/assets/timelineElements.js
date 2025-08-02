@@ -1,28 +1,27 @@
 const timelineElements = [
     {
-      id: 1,
-      title: "Amazon",
-      location: "Software Developer Intern | Seattle, WA | May 2025 - Present",
+      id: 2,
+      title: "Glo.",
+      location: "Co-founder & CEO | Chapel Hill, NC | June 2025 - Present",
       description: 
-      ["Implementing a fully automated EC2 data validation pipeline in AWS by encoding complex business logic as Z3 constraints and applying automated reasoning to identify unsellable instances—surfacing key metrics in CloudWatch and reducing capital expenditures by ~$10K per instance."],
-      date: "May 25 - Present",
+      [
+        "Building an AI and AR-powered beauty app with React Native, Node.js, Postgres SQL, and Google Cloud for personalized tutorials and real-time virtual try-ons",
+        "Integrating GPT-4 Vision for AI-driven makeup analysis and leveraging AR to adapt looks to each user’s facial features and skin tone"
+      ],
+      date: "Jun 25 - Present",
       icon: "work",
-      tech: ["Python", "Spark", "AWS Glue", "AWS Cloudwatch", "S3"],
+      tech: ["React Native", "Javascript", "Node.js", "Express", "PostgresSQL", "Google Could", "GPT4 Vision", "AR"],
     },
     {
       id: 2,
-      title: "Power",
-      location: "Founder & CEO | Chapel Hill, NC | January 2025 - Present",
+      title: "Amazon",
+      location: "Software Developer Intern | Seattle, WA | May 2025 - Present",
       description: 
-      [
-        "Co-founding an AI-powered platform that converts natural language prompts into end-to-end business automations, enabling non-technical users to build workflows with zero code.",
-        "Leading the development of the platforms core infrastructure using React, Node.js, n8n, and OpenAIs GPT-4, streamlining backend task creation and targeting a 90% reduction in workflow setup time."
-      ],
-      date: "Jan 25 - Present",
+      ["Built a fully automated, end-to-end EC2 data validation pipeline using a custom Python framework, AWS Glue, Spark, S3, Athena, and CloudWatch to run custom validations and surface key metrics—discovered over 1.5 million unsellable instance errors, reducing capital expenditures by ~$10K per instance"],
+      date: "May 25 - Present",
       icon: "work",
-      tech: ["React", "Javascript", "Node.js", "Open AI (GPT-4)", "n8n", "CloudSQL"],
+      tech: ["Python", "Spark", "AWS Glue", "AWS Cloudwatch", "AWS Athena", "S3"],
     },
-
     {
       id: 3,
       title: "Voicera",
