@@ -12,7 +12,7 @@ const educationElements = [
       id: 2,
       title: "Panther Creek High School",
       location: "Cary, North Carolina",
-      description: ["HS Rank: 7/650     |     ACT: 34", "President of American Enterprise System Committee for FBLA: National Finalist 2021 & achieved 1st at state-wide competition three years in a row", "Varisty Soccer (Captain)"],
+      description: ["HS Rank: 7/800     |     ACT: 34", "President of American Enterprise System Committee for FBLA: National Finalist 2021 & achieved 1st at state-wide competition three years in a row", "Varisty Soccer (Captain)"],
       date: "2018-2022",
       icon: "school",
       color: "blue",
